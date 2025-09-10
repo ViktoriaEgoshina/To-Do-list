@@ -1,0 +1,8 @@
+{
+  "name": "todo-vanilla",
+  "version": "1.0.0",
+  "description": "Simple To-Do List",
+  "scripts": {
+    "build": "echo 'No build needed for static site'"
+  }
+}
